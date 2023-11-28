@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    /*background-image: linear-gradient(
+        0deg,
+         rgba(0,0,0,0.5),
+         rgba(0,0,0,0.5)
+
+    ) 
+    ,url("../img/azul.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: red;*/
+    background: red;
+    
+}
+/*.row{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+
+}*/
+
+
+
+
+
